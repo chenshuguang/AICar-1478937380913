@@ -2,7 +2,7 @@ applications:
 - path: .
   memory: 256M
   instances: 1
-  domain: mybluemix.net
-  name: DriveCar
-  host: drivecar
+  domain: AICar.mybluemix.net
+  name: AICar
+  host: AICar-1478937380913
   disk_quota: 1024M
